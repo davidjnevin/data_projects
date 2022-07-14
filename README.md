@@ -1,3 +1,3 @@
 # Data Projects
 
-A collection of Data Science projects using Python
+A collection of guided Data Science projects using Python
